@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80867d05-deac-4427-94f7-4758f91e204c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstCalendar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyFirstCalendar/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyFirstCalendar/MyCalendar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyFirstCalendar/MyCalendarTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyFirstCalendar/TimeInterval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyFirstCalendar/events.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCalendarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events.txt" afterDir="false" />
-    </list>
+    <list default="true" id="80867d05-deac-4427-94f7-4758f91e204c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -242,9 +223,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="937" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.045787547" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083798885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
