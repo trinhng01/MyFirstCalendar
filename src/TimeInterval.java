@@ -1,32 +1,43 @@
-import sun.jvm.hotspot.memory.LoaderConstraintEntry;
-
-import java.time.LocalDate;
+/**
+ * TimeInterval has starting time and ending of an Event
+ */
+import java.io.Serializable;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 /**
  * HashMap to store calendar
  */
-public class TimeInterval {
-    private LocalDate startTime;
-    private LocalDate endTime;
+public class TimeInterval implements Serializable {
+    private LocalDateTime startTime;
+    private LocalDateTime endTime;
 
     /** Constructors */
     public TimeInterval(){}
-    public TimeInterval(LocalDate startTime, LocalDate endTime) {
-        this.startTime = startTime;
-        this.endTime = endTime;
-    }
 
     /** Accessors & Mutators */
-    public LocalDate getStartTime() { return startTime; }
+    public LocalDateTime getStartTime() { return startTime; }
 
-    public void setStartTime(LocalDate startTime) { this.startTime = startTime; }
+    public void setStartTime(LocalDateTime startTime) { this.startTime = startTime; }
 
-    public LocalDate getEndTime() { return endTime; }
+    public LocalDateTime getEndTime() { return endTime; }
 
-    public void setEndTime(LocalDate endTime) { this.endTime = endTime; }
+    public void setEndTime(LocalDateTime endTime) { this.endTime = endTime; }
 
-    //Check time overlap
-
-
+    /** Print Functions */
+    public void print(){
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm");
+        System.out.println(" " + formatter.format(startTime) + "-" + formatter.format(endTime));
+    }
+    public void printDate(){
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("\nE, MM/dd/yyyy, HH:mm");
+        DateTimeFormatter formatter2 = DateTimeFormatter.ofPattern("HH:mm");
+        System.out.println(" " + formatter.format(startTime) + "-" + formatter2.format(endTime));
+    }
+    /** toString function to write object to text file */
+    @Override
+    public String toString() {
+        return startTime.toString()
+                + " - " + endTime.toString();
+    }
 }

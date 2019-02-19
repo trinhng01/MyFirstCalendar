@@ -1,0 +1,226 @@
+Event name: CS147 Lecture
+2019-04-30T17:00 - 2019-04-30T18:45
+Event name: CS151 Lecture
+2019-04-30T10:30 - 2019-04-30T11:45
+Event name: CS157C Lecture
+2019-04-29T12:00 - 2019-04-29T13:15
+Event name: CS147 Lecture
+2019-02-28T17:00 - 2019-02-28T18:45
+Event name: CS151 Lecture
+2019-02-28T10:30 - 2019-02-28T11:45
+Event name: CS157C Lecture
+2019-02-27T12:00 - 2019-02-27T13:15
+Event name: CS147 Lecture
+2019-02-26T17:00 - 2019-02-26T18:45
+Event name: CS151 Lecture
+2019-02-26T10:30 - 2019-02-26T11:45
+Event name: Course Committee Meeting
+2019-04-26T18:30 - 2019-04-26T20:30
+Event name: CS147 Lecture
+2019-04-25T17:00 - 2019-04-25T18:45
+Event name: CS151 Lecture
+2019-04-25T10:30 - 2019-04-25T11:45
+Event name: CS157C Lecture
+2019-02-25T12:00 - 2019-02-25T13:15
+Event name: CS157C Lecture
+2019-04-24T12:00 - 2019-04-24T13:15
+Event name: CS147 Lecture
+2019-04-23T17:00 - 2019-04-23T18:45
+Event name: CS151 Lecture
+2019-04-23T10:30 - 2019-04-23T11:45
+Event name: CS157C Lecture
+2019-04-22T12:00 - 2019-04-22T13:15
+Event name: Course Committee Meeting
+2019-02-22T18:30 - 2019-02-22T20:30
+Event name: CS147 Lecture
+2019-02-21T17:00 - 2019-02-21T18:45
+Event name: CS151 Lecture
+2019-02-21T10:30 - 2019-02-21T11:45
+Event name: CS157C Lecture
+2019-02-20T12:00 - 2019-02-20T13:15
+Event name: CS147 Lecture
+2019-02-19T17:00 - 2019-02-19T18:45
+Event name: CS151 Lecture
+2019-02-19T10:30 - 2019-02-19T11:45
+Event name: Course Committee Meeting
+2019-04-19T18:30 - 2019-04-19T20:30
+Event name: CS147 Lecture
+2019-04-18T17:00 - 2019-04-18T18:45
+Event name: CS151 Lecture
+2019-04-18T10:30 - 2019-04-18T11:45
+Event name: CS157C Lecture
+2019-02-18T12:00 - 2019-02-18T13:15
+Event name: CS157C Lecture
+2019-04-17T12:00 - 2019-04-17T13:15
+Event name: Study Web Development
+2019-02-16T09:30 - 2019-02-16T11:30
+Event name: Practice LeetCode
+2019-02-16T01:30 - 2019-02-16T02:30
+Event name: CS147 Lecture
+2019-04-16T17:00 - 2019-04-16T18:45
+Event name: CS151 Lecture
+2019-04-16T10:30 - 2019-04-16T11:45
+Event name: CS157C Lecture
+2019-04-15T12:00 - 2019-04-15T13:15
+Event name: Course Committee Meeting
+2019-02-15T18:30 - 2019-02-15T20:30
+Event name: CS147 Lecture
+2019-02-14T17:00 - 2019-02-14T18:45
+Event name: CS151 Lecture
+2019-02-14T10:30 - 2019-02-14T11:45
+Event name: CS157C Lecture
+2019-02-13T12:00 - 2019-02-13T13:15
+Event name: CS147 Lecture
+2019-02-12T17:00 - 2019-02-12T18:45
+Event name: CS151 Lecture
+2019-02-12T10:30 - 2019-02-12T11:45
+Event name: Course Committee Meeting
+2019-04-12T18:30 - 2019-04-12T20:30
+Event name: CS147 Lecture
+2019-04-11T17:00 - 2019-04-11T18:45
+Event name: CS151 Lecture
+2019-04-11T10:30 - 2019-04-11T11:45
+Event name: CS157C Lecture
+2019-02-11T12:00 - 2019-02-11T13:15
+Event name: CS157C Lecture
+2019-04-10T12:00 - 2019-04-10T13:15
+Event name: CS147 Lecture
+2019-04-09T17:00 - 2019-04-09T18:45
+Event name: CS151 Lecture
+2019-04-09T10:30 - 2019-04-09T11:45
+Event name: CS157C Lecture
+2019-04-08T12:00 - 2019-04-08T13:15
+Event name: Course Committee Meeting
+2019-02-08T18:30 - 2019-02-08T20:30
+Event name: CS147 Lecture
+2019-02-07T17:00 - 2019-02-07T18:45
+Event name: CS151 Lecture
+2019-02-07T10:30 - 2019-02-07T11:45
+Event name: CS157C Lecture
+2019-02-06T12:00 - 2019-02-06T13:15
+Event name: CS147 Lecture
+2019-02-05T17:00 - 2019-02-05T18:45
+Event name: CS151 Lecture
+2019-02-05T10:30 - 2019-02-05T11:45
+Event name: Course Committee Meeting
+2019-04-05T18:30 - 2019-04-05T20:30
+Event name: CS147 Lecture
+2019-04-04T17:00 - 2019-04-04T18:45
+Event name: CS151 Lecture
+2019-04-04T10:30 - 2019-04-04T11:45
+Event name: CS157C Lecture
+2019-02-04T12:00 - 2019-02-04T13:15
+Event name: CS157C Lecture
+2019-04-03T12:00 - 2019-04-03T13:15
+Event name: Dentist appt
+2019-10-03T16:15 - 2019-10-03T17:00
+Event name: CS147 Lecture
+2019-04-02T17:00 - 2019-04-02T18:45
+Event name: CS151 Lecture
+2019-04-02T10:30 - 2019-04-02T11:45
+Event name: CS157C Lecture
+2019-04-01T12:00 - 2019-04-01T13:15
+Event name: Course Committee Meeting
+2019-02-01T18:30 - 2019-02-01T20:30
+Event name: Course Committee Meeting
+2019-03-29T18:30 - 2019-03-29T20:30
+Event name: CS147 Lecture
+2019-03-28T17:00 - 2019-03-28T18:45
+Event name: CS151 Lecture
+2019-03-28T10:30 - 2019-03-28T11:45
+Event name: CS157C Lecture
+2019-01-28T12:00 - 2019-01-28T13:15
+Event name: Interview at Apple
+2019-09-28T09:30 - 2019-09-28T11:30
+Event name: Asia Trip
+2020-09-28T09:30 - 2020-09-28T11:30
+Event name: CS157C Lecture
+2019-03-27T12:00 - 2019-03-27T13:15
+Event name: CS147 Lecture
+2019-03-26T17:00 - 2019-03-26T18:45
+Event name: CS151 Lecture
+2019-03-26T10:30 - 2019-03-26T11:45
+Event name: CS157C Lecture
+2019-03-25T12:00 - 2019-03-25T13:15
+Event name: Course Committee Meeting
+2019-01-25T18:30 - 2019-01-25T20:30
+Event name: CS147 Lecture
+2019-01-24T17:00 - 2019-01-24T18:45
+Event name: CS151 Lecture
+2019-01-24T10:30 - 2019-01-24T11:45
+Event name: Course Committee Meeting
+2019-03-22T18:30 - 2019-03-22T20:30
+Event name: CS147 Lecture
+2019-03-21T17:00 - 2019-03-21T18:45
+Event name: CS151 Lecture
+2019-03-21T10:30 - 2019-03-21T11:45
+Event name: CS157C Lecture
+2019-03-20T12:00 - 2019-03-20T13:15
+Event name: CS147 Lecture
+2019-03-19T17:00 - 2019-03-19T18:45
+Event name: CS151 Lecture
+2019-03-19T10:30 - 2019-03-19T11:45
+Event name: CS157C Lecture
+2019-03-18T12:00 - 2019-03-18T13:15
+Event name: Course Committee Meeting
+2019-05-17T18:30 - 2019-05-17T20:30
+Event name: CS157C Lecture
+2019-05-15T12:00 - 2019-05-15T13:15
+Event name: Course Committee Meeting
+2019-03-15T18:30 - 2019-03-15T20:30
+Event name: CS147 Lecture
+2019-05-14T17:00 - 2019-05-14T18:45
+Event name: CS151 Lecture
+2019-05-14T10:30 - 2019-05-14T11:45
+Event name: CS147 Lecture
+2019-03-14T17:00 - 2019-03-14T18:45
+Event name: CS151 Lecture
+2019-03-14T10:30 - 2019-03-14T11:45
+Event name: CS157C Lecture
+2019-05-13T12:00 - 2019-05-13T13:15
+Event name: CS157C Lecture
+2019-03-13T12:00 - 2019-03-13T13:15
+Event name: CS147 Lecture
+2019-03-12T17:00 - 2019-03-12T18:45
+Event name: CS151 Lecture
+2019-03-12T10:30 - 2019-03-12T11:45
+Event name: CS157C Lecture
+2019-03-11T12:00 - 2019-03-11T13:15
+Event name: Course Committee Meeting
+2019-05-10T18:30 - 2019-05-10T20:30
+Event name: CS147 Lecture
+2019-05-09T17:00 - 2019-05-09T18:45
+Event name: CS151 Lecture
+2019-05-09T10:30 - 2019-05-09T11:45
+Event name: CS157C Lecture
+2019-05-08T12:00 - 2019-05-08T13:15
+Event name: Course Committee Meeting
+2019-03-08T18:30 - 2019-03-08T20:30
+Event name: CS147 Lecture
+2019-05-07T17:00 - 2019-05-07T18:45
+Event name: CS151 Lecture
+2019-05-07T10:30 - 2019-05-07T11:45
+Event name: CS147 Lecture
+2019-03-07T17:00 - 2019-03-07T18:45
+Event name: CS151 Lecture
+2019-03-07T10:30 - 2019-03-07T11:45
+Event name: CS157C Lecture
+2019-05-06T12:00 - 2019-05-06T13:15
+Event name: CS157C Lecture
+2019-03-06T12:00 - 2019-03-06T13:15
+Event name: CS147 Lecture
+2019-03-05T17:00 - 2019-03-05T18:45
+Event name: CS151 Lecture
+2019-03-05T10:30 - 2019-03-05T11:45
+Event name: CS157C Lecture
+2019-03-04T12:00 - 2019-03-04T13:15
+Event name: Course Committee Meeting
+2019-05-03T18:30 - 2019-05-03T20:30
+Event name: CS147 Lecture
+2019-05-02T17:00 - 2019-05-02T18:45
+Event name: CS151 Lecture
+2019-05-02T10:30 - 2019-05-02T11:45
+Event name: CS157C Lecture
+2019-05-01T12:00 - 2019-05-01T13:15
+Event name: Course Committee Meeting
+2019-03-01T18:30 - 2019-03-01T20:30

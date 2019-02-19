@@ -1,10 +1,20 @@
+Study Web Development
+2/16/19 9:30 11:30
+Practice LeetCode
+2/16/19 1:30 2:30
+CS147 Lecture
+TR 17:00 18:45 1/24/19 5/9/19
 CS151 Lecture
 TR 10:30 11:45 1/24/19 5/9/19
 CS157C Lecture
-MW 11:45 13:15 1/28/19 5/13/19
+MW 12:00 13:15 1/28/19 5/13/19
 Interview at Apple
 9/28/19 9:30 11:30
 Dentist appt
 10/3/19 16:15 17:00
 Course Committee Meeting
-F 18:30 20:30  1/25/19 5/13/19
+F 18:30 20:30 1/25/19 5/13/19
+Course Committee Meeting
+M 7:30 8:30 3/25/19 3/13/19
+Asia Trip
+9/28/20 9:30 11:30
